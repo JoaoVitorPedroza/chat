@@ -1,0 +1,28 @@
+body{
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.login-box{
+    width: 20%;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #212121;
+    color: white;
+}
+input{
+    background-color: #ffffff;
+    color: gray;
+}
+button{
+    background-color: #ffffff;
+    color: black;
+    width: 150px;
+    height: 50px;
+    border-radius: 9px;
+}
